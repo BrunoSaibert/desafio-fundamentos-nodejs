@@ -1,5 +1,4 @@
 import Transaction from '../models/Transaction';
-import CreateTransactionService from '../services/CreateTransactionService';
 
 interface CreateTransactionDTO {
   title: string;
